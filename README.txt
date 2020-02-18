@@ -1,0 +1,3 @@
+ting 
+
+something to copy
